@@ -9,3 +9,5 @@ __pycache__/
 data/*.txt
 data/*.jsonl
 data/*.png
+.vscode/
+.env
